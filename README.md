@@ -1,2 +1,3 @@
 # ciguita-landing
-Landing page for ciguita.com
+![Ciguita](favicon.png)
+## Landing page for ciguita.com
