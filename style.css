@@ -1,0 +1,16 @@
+
+@font-face { font-family: SourceCode; src: url('SourceCodeVariable-Roman.ttf'); }  
+
+body{
+    color: #ff6633;
+    font-family: SourceCode;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+  }
+
+  
